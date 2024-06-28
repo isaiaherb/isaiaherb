@@ -21,33 +21,6 @@ Languages: Python, SQL, and R
 #### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
 #### Project: Motorcycle Sales
 
-
-## Academic
-### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
-Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer 
-
-Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
-
-### Project: Denver City Census Power BI Dashboard
-Repository: https://github.com/isaiaherb/denver-census
-
-Description: census data analysis for the City of Denver, our senior capstone client at DU, who was aiming to introduce a new development to the city's central business district and wanted insights into the area; includes a Power BI dashboard with breakdowns of demographics, income, education, and more for the Central Business District and city/county of Denver
-
-### Project: Basketball Analytics (R)
-Repository: https://github.com/isaiaherb/basketball-analytics
-
-Description:
-
-#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
-Repository:
-
-Description:
-
-#### Project: Motorcycle Sales
-Repository:
-
-Description:
-
 ## Professional
 ### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 Repository: 
@@ -70,3 +43,28 @@ Repository: https://github.com/isaiaherb/World-Mental-Health-Analysis
 
 Description
 
+## Academic
+### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
+Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer 
+
+Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
+
+### Project: Denver City Census Power BI Dashboard
+Repository: https://github.com/isaiaherb/denver-census
+
+Description: census data analysis for the City of Denver, our senior capstone client at DU, who was aiming to introduce a new development to the city's central business district and wanted insights into the area; includes a Power BI dashboard with breakdowns of demographics, income, education, and more for the Central Business District and city/county of Denver
+
+### Project: Basketball Analytics (R)
+Repository: https://github.com/isaiaherb/basketball-analytics
+
+Description:
+
+### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
+Repository:
+
+Description:
+
+### Project: Motorcycle Sales
+Repository:
+
+Description:
