@@ -3,6 +3,8 @@ This portfolio highlights key data science and analytics projects from my profes
 
 Last Updated: 27 JUN 2024.
 
+Languages: Python, SQL, and R
+
 ## Table of Contents
 ## Academic
 #### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
