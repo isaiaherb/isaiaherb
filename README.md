@@ -1,16 +1,15 @@
-## Hi there 👋
+## Description
+This portfolio highlights key data science and analytics projects from my professional career, personal interests, and academic pursuits.
+Last Updated: 27 JUN 2024.
+Languages: Python and SQL
 
-<!--
-**isaiaherb/isaiaherb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Table of Contents
+### Academic
+##### Reddit Analytics Dashboard(#reddit-analytics)
+### Professional
+##### 
+### Personal 
+##### Stock Market Predictive Analysis
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
