@@ -7,7 +7,7 @@ Languages: Python and SQL
 ### Academic
 ##### Reddit Analytics Dashboard
 ### Professional
-##### Auto-Valuation Model (Estimates NOI)
+##### Auto-Valuation Model (Estimating NOI)
 ### Personal 
 ##### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
 ##### Stock Market Predictive Analysis
