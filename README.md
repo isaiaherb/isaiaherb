@@ -9,18 +9,19 @@ Languages: Python, SQL, and R
 ## Professional
 #### [Real Estate Auto Valuation](#real-estate-auto-valuation)
 ## Personal 
-#### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison)
-#### [NBA-Season-Predictions)[#nba-season-predictions]
-#### [US-Debt-Forecasting](#us-debt-forecasting)
-#### [Stock-Market-Predictions](#stock-market-predictions)
-#### [Mental-Health-Disorders](#mental-health-disorders) 
+#### [CNN-Fed Transcript Comparison NLP](#cnn-fed-transcript-comparison-nlp)
+#### [NBA Season Predictions](#nba-season-predictions)
+#### [US Debt Forecasting](#us-debt-forecasting)
+#### [Stock Market Predictions](#stock-market-predictions)
+#### [Mental Health Disorders](#mental-health-disorders) 
 ## Academic
-#### [Reddit-Analytics](#reddit-analytics) 
-#### [Census-Data-Analysis](#census-data-analysis)
-#### [Denver-Nuggets-Shot-Analysis](#denver-nuggets-shot-analysis)
-#### [Fantasy-Hockey-Lineup](#fantasy-hockey-lineup)
-#### [Motorcycle-Sales](#motorcycle-sales)
+#### [Reddit Analytics](#reddit-analytics) 
+#### [Census Data Analysis](#census-data-analysis)
+#### [Denver Nuggets Shot Analysis](#denver-nuggets-shot-analysis)
+#### [Fantasy Hockey Lineup](#fantasy-hockey-lineup)
+#### [Motorcycle Sales](#motorcycle-sales)
 <!-- toc -->
+
 
 
 ## Professional
