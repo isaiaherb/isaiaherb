@@ -9,7 +9,7 @@ Languages: Python, SQL, and R
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ## Personal 
-#### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+#### CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
 #### Federal Spending and Debt Ceiling Forecasting
 #### Stock Market Predictive Modeling
