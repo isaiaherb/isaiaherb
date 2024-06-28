@@ -3,8 +3,6 @@ This portfolio highlights key data science and analytics projects from my profes
 
 Last Updated: 27 JUN 2024.
 
-Languages: Python and SQL
-
 ## Table of Contents
 ## Academic
 #### Project: Reddit Dashboard
