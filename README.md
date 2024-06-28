@@ -12,6 +12,11 @@ Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
 
+### Forecasting National Debt and Other Economic Indicators
+Repository: https://github.com/isaiaherb/us-debt-forecasting
+
+Description: a model that forecasts the US debt based on historical data and current economic indicators.
+
 ## Personal Projects
 
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
@@ -24,10 +29,11 @@ Repository: https://github.com/isaiaherb/nba-season-predictions
 
 Description: predict the outcomes of the NBA season based on various statistical models.
 
-### US Debt Forecasting 
-Repository: https://github.com/isaiaherb/us-debt-forecasting
+### SQL Portfolio 
+Repository:
 
-Description: a model that forecasts the US debt based on historical data and current economic indicators.
+Description:
+
 
 ### Stock Market Predictions
 Repository: https://github.com/isaiaherb/stock-market-predictions
