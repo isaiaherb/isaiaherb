@@ -15,9 +15,9 @@ Description: A machine learning auto-valuation model designed to predict the NOI
 ![avm-image-2](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
 ## Personal Projects
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
-Repository: https://github.com/isaiaherb/2008-document-comparison
+Repository:https://github.com/isaiaherb/document-comparison
 
-Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
+Description: This Jupyter Notebook explores text analytics and document comparison for two separate documents from the time of the 2008 financial crisis. The main idea is to see the emotional and contextual difference between two different sources of information, a Fed conference call transcript and a CNN news article.
 
 ### NBA Season Predictions (2023-2024)
 Repository: https://github.com/isaiaherb/nba-predictions-2023-24
