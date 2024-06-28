@@ -9,17 +9,17 @@ Languages: Python, SQL, and R
 ## Professional
 #### [Real-Estate-Auto-Valuation](#real-estate-auto-valuation)
 ## Personal 
-#### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison-nlp)
-#### [NBA-Season-Predictions-2023-24)[#nba-season-predictions-2023-24]
-#### [US-Debt-Forecasting](#US-Debt-Forecasting)
-#### [Stock Market Predictive Modeling]
-#### World Mental Health EDA 
+#### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison)
+#### [NBA-Season-Predictions)[#nba-season-predictions]
+#### [US-Debt-Forecasting](#us-debt-forecasting)
+#### [Stock-Market-Predictions](#stock-market-predictions)
+#### [Mental-Health-Disorders](#mental-health-disorders) 
 ## Academic
-#### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
-#### Project: Denver City Census Power BI Dashboard
-#### Project: Denver Nuggets Shooting Analysis (R)
-#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
-#### Project: [Motorcycle-Sales](#motorcycle-sales)
+#### [Reddit-Analytics](#reddit-analytics) 
+#### [Census-Data-Analysis](#census-data-analysis)
+#### [Denver-Nuggets-Shot-Analysis](#denver-nuggets-shot-analysis)
+#### [Fantasy-Hockey-Lineup](#fantasy-hockey-lineup)
+#### [Motorcycle-Sales](#motorcycle-sales)
 
 ## Professional
 ### Real Estate Auto Valuation 
