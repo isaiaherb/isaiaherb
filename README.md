@@ -6,7 +6,7 @@ Last Updated: 27 JUN 2024.
 Languages: Python, SQL, and R
 
 ## Table of Contents
-## Professional
+## [Professional](#professional)
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI) 
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
@@ -20,7 +20,7 @@ Languages: Python, SQL, and R
 #### Project: Denver Nuggets Shooting Analysis (R)
 #### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
 #### Project: Motorcycle Sales
-
+<!-- toc -->
 ## Professional
 ### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 Repository: https://github.com/isaiaherb/real-estate-avm
