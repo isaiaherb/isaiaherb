@@ -17,16 +17,14 @@ Description: A machine learning auto-valuation model designed to predict the NOI
 Repository: https://github.com/isaiaherb/economic-analysis
 
 Description: a model that forecasts the US debt based on historical data and current economic indicators.
-
 ## Personal Projects
-
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
 Repository: https://github.com/isaiaherb/2008-document-comparison
 
 Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
 
 ### NBA Season Predictions (2023-2024)
-Repository: https://github.com/isaiaherb/nba-season-predictions
+Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
 Description: predict the outcomes of the NBA season based on various statistical models.
 
@@ -51,7 +49,7 @@ Description: analysis of the prevalence and treatment outcomes of various mental
 
 ## Academic Projects
 
-### Reddit Analytics
+### Reddit Analytics in Power BI
 Repository: https://github.com/isaiaherb/reddit-analytics
 
 Description: analysis of Reddit data to extract insights on various topics.
