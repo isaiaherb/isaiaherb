@@ -56,7 +56,7 @@ Description: The World Mental Health Analysis Project aims to visualize informat
 ### City of Denver Demographic and Property Data Visualization
 Repository: https://github.com/isaiaherb/denver-census
 
-Description: A Power BI dashboard to analyze various demographic and property statistics for the client, the City of Denver. 
+Description: A Power BI dashboard to analyze various demographic and property statistics for the client. 
 ![census-image-1](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183925.png?raw=true)
 ![census-image-2](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183559.png?raw=true)
 ### Fantasy Hockey Lineup Optimization (PE Concrete Model)
