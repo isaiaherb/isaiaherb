@@ -49,12 +49,14 @@ Repository: https://github.com/isaiaherb/mental-health-disorders
 Description: analysis of the prevalence and treatment outcomes of various mental health disorders.
 
 ## Academic Projects
-
 ### Reddit Analytics in Power BI
 Repository: https://github.com/isaiaherb/reddit-analytics
 
 Description: analysis of Reddit data to extract insights on various topics.
 
+![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
+![reddit-image-2](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20105555.png?raw=true)
+![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
 ### Census Data Analysis
 Repository: https://github.com/isaiaherb/census-data-analysis
 
