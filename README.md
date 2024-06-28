@@ -7,12 +7,12 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### Project: [Real-Estate-Auto-Valuation](#real-estate-auto-valuation)
+#### [Real-Estate-Auto-Valuation](#real-estate-auto-valuation)
 ## Personal 
-#### Project: [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison-nlp)
-#### Project [NBA-Season-Predictions-2023-24)[#nba-season-predictions-2023-24]
-#### Federal [US-Debt-Forecasting](#US-Debt-Forecasting)
-#### Stock Market Predictive Modeling
+#### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison-nlp)
+#### [NBA-Season-Predictions-2023-24)[#nba-season-predictions-2023-24]
+#### [US Debt-Forecasting](#US-Debt-Forecasting)
+#### [Stock Market Predictive Modeling]
 #### World Mental Health EDA 
 ## Academic
 #### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
