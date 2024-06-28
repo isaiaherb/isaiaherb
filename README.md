@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### [Project: Python](#project)
+#### [Project: Python](#project: python)
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
