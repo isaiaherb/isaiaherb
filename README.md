@@ -23,13 +23,13 @@ Languages: Python, SQL, and R
 
 ## Professional
 ### Project: Real Estate Auto-Valuation Model (Estimating NOI)
-Repository: 
+Repository: https://github.com/isaiaherb/retail-avm
 
 Description: real estate client, wanted to see the effects of inflation and price on noi, linear regression model with 0.95 r-squared that estimates noi
 
 ## Personal
 ### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
-Repository: 
+Repository: https://github.com/isaiaherb/2008-document-comparison
 
 Description: compares two documents from the 2008 financial crisis, specifically during september when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th, and a CNN Money article from the same day
 
