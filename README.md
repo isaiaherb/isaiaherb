@@ -28,6 +28,7 @@ Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
 Description: predict the outcomes of the NBA season based on various statistical models.
 
+![nba-image](https://github.com/isaiaherb/nba-predictions-2023-24/blob/main/images/Screenshot%202024-06-28%20111851.png?raw=true)
 ### SQL Portfolio 
 Repository: https://github.com/isaiaherb/sql-portfolio
 
