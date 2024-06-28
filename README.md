@@ -56,7 +56,7 @@ Repository: https://github.com/isaiaherb/denver-nuggets-shot-analysis
 
 Description: statistical analysis of shot data from Denver Nuggets games.
 
-### Fantasy Hockey Lineup (PE Concrete Model)
+### Fantasy Hockey Lineup Optimization (PE Concrete Model)
 Repository: https://github.com/isaiaherb/fantasy-hockey-lineup
 
 Description: optimizing fantasy hockey lineups using various statistical methods.
