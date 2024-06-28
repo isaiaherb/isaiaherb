@@ -6,8 +6,8 @@ Last Updated: 27 JUN 2024.
 Languages: Python, SQL, and R
 
 ## Table of Contents
-## [Professional](#professional)
-#### Project: Real Estate Auto-Valuation Model (Estimating NOI) 
+## Professional
+#### [Project: Real Estate Auto-Valuation Model (Estimating NOI)](#real-estate-avm) 
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
