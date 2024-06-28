@@ -13,10 +13,6 @@ Description: A machine learning auto-valuation model designed to predict the NOI
 
 ![avm-image](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114805.png?raw=true)
 ![avm-image-2](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
-### Forecasting National Debt and Other Economic Indicators
-Repository: https://github.com/isaiaherb/economic-analysis
-
-Description: a model that forecasts the US debt based on historical data and current economic indicators.
 ## Personal Projects
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
 Repository: https://github.com/isaiaherb/2008-document-comparison
@@ -38,11 +34,14 @@ Description:
 Repository: https://github.com/isaiaherb/environmental-analysis
 
 Description:
+### Forecasting US National Debt 
+Repository: https://github.com/isaiaherb/economic-analysis
+
+Description: A model that forecasts the US debt based on historical data and current economic indicators.
 ### Stock Market Predictions
 Repository: https://github.com/isaiaherb/stock-market-predictions
 
-Description: a machine learning model to predict stock market trends.
-
+Description: Five machine-learning models trained to predict stock prices based on historical data from Yahoo Finance.
 ### Mental Health Disorders
 Repository: https://github.com/isaiaherb/mental-health-disorders
 
@@ -57,11 +56,6 @@ Description: analysis of Reddit data to extract insights on various topics.
 ![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
 ![reddit-image-2](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20105555.png?raw=true)
 ![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
-### Census Data Analysis
-Repository: https://github.com/isaiaherb/census-data-analysis
-
-Description: analysis of US census data to uncover demographic trends.
-
 ### Denver Nuggets Shot Analysis (2021)
 Repository: https://github.com/isaiaherb/denver-nuggets-shot-analysis
 
