@@ -11,7 +11,7 @@ Languages: Python, SQL, and R
 ## Personal 
 #### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison-nlp)
 #### [NBA-Season-Predictions-2023-24)[#nba-season-predictions-2023-24]
-#### [US Debt-Forecasting](#US-Debt-Forecasting)
+#### [US Debt Forecasting](#US-Debt-Forecasting)
 #### [Stock Market Predictive Modeling]
 #### World Mental Health EDA 
 ## Academic
