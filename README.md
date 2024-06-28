@@ -30,11 +30,14 @@ Repository: https://github.com/isaiaherb/nba-season-predictions
 Description: predict the outcomes of the NBA season based on various statistical models.
 
 ### SQL Portfolio 
-Repository:
+Repository: https://github.com/isaiaherb/sql-portfolio
 
 Description:
 
+### International Environmental Assessment 
+Repository: https://github.com/isaiaherb/international-environment
 
+Description:
 ### Stock Market Predictions
 Repository: https://github.com/isaiaherb/stock-market-predictions
 
