@@ -6,18 +6,21 @@ Last Updated: 27 JUN 2024.
 Languages: Python, SQL, and R
 
 ## Table of Contents
-## Academic
-#### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
-#### Project: Denver City Census Power BI Dashboard
-#### Project: Basketball Analytics (R)
-#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
-#### Project: Motorcycle Sales
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ## Personal 
-#### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
-#### Project: Stock Market Predictive Analysis
-#### Project: World Mental Health EDA (Exploratory Data Analysis)
+#### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+#### NBA Season Rankings (R)
+#### Federal Spending and Debt Ceiling Forecasting
+#### Stock Market Predictive Modeling
+#### World Mental Health EDA 
+## Academic
+#### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
+#### Project: Denver City Census Power BI Dashboard
+#### Project: Denver Nuggets Shooting Analysis (R)
+#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
+#### Project: Motorcycle Sales
+
 
 ## Academic
 ### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
@@ -31,7 +34,7 @@ Repository:
 Description: census data analysis for the City of Denver, our senior capstone client at DU, who was aiming to introduce a new development to the city's central business district and wanted insights into the area; includes a Power BI dashboard with breakdowns of demographics, income, education, and more for the Central Business District and city/county of Denver
 
 ### Project: Basketball Analytics (R)
-Repository:
+Repository: https://github.com/isaiaherb/basketball-analytics
 
 Description:
 
