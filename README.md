@@ -6,7 +6,7 @@ Last Updated: 27 JUN 2024.
 Languages: Python, SQL, and R
 
 ## Professional Projects
-### Auto Valuation Model (Retail) 
+### Real Estate Auto Valuation 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: A machine learning auto-valuation model designed to predict the NOI and price for a given set of environmental and property conditions. It can be particularly useful in simulating economic activity and visualizing the effects on a property. It's also helpful when exploring new properties and deciding if they're a good buy or sell. In short, it allows users to get a quick estimate of a commercial property's NOI and/or set the price when selling. The Streamlit user interface also visualizes NOI, price, and adjusted cap rates within the distribution of the training dataset. Both the NOI and price estimators have been tailored toward the retail sector, specifically grocery stores and supermarkets.
