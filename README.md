@@ -5,7 +5,7 @@ Last Updated: 27 JUN 2024.
 
 ## Table of Contents
 ## Academic
-#### Project: Reddit Dashboard (Exploratory Text Analytics
+#### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ## Personal 
@@ -14,7 +14,7 @@ Last Updated: 27 JUN 2024.
 #### Project: World Mental Health EDA (Exploratory Data Analysis)
 
 ## Academic
-### Project: Reddit Dashboard (Exploratory Text Analytics
+### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
 Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer 
 
 Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
