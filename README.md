@@ -20,6 +20,8 @@ Languages: Python, SQL, and R
 #### [Denver-Nuggets-Shot-Analysis](#denver-nuggets-shot-analysis)
 #### [Fantasy-Hockey-Lineup](#fantasy-hockey-lineup)
 #### [Motorcycle-Sales](#motorcycle-sales)
+<!-- toc -->
+
 
 ## Professional
 ### Real Estate Auto Valuation 
