@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Professional Projects
 
-### Real Estate Auto Valuation 
+### Auto Valuation Model (Retail) 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
