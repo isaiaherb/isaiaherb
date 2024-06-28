@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### [Real-Estate-Auto-Valuation](#real-estate-auto-valuation)
+#### [Real Estate Auto Valuation](#real-estate-auto-valuation)
 ## Personal 
 #### [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison)
 #### [NBA-Season-Predictions)[#nba-season-predictions]
