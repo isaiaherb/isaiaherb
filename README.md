@@ -43,8 +43,7 @@ Description: Five machine-learning models trained to predict stock prices based 
 ### Mental Health Disorders
 Repository: https://github.com/isaiaherb/mental-health-disorders
 
-Description: analysis of the prevalence and treatment outcomes of various mental health disorders.
-
+Description: The World Mental Health Analysis Project aims to visualize information about mental disorders and various treatments around the world. This project utilizes data from multiple Excel files obtained from Kaggle.
 ## Academic Projects
 ### Reddit Analytics in Power BI
 Repository: https://github.com/isaiaherb/reddit-analytics
