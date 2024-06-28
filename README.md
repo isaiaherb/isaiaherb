@@ -5,12 +5,12 @@ Languages: Python and SQL
 
 ## Table of Contents
 ### Academic
-##### Reddit Analytics Dashboard(#reddit-analytics)
+##### Reddit Analytics Dashboard
 ### Professional
 ##### Auto-Valuation Model (Estimates NOI)
 ### Personal 
-##### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)(#cnn-fed)
-##### Stock Market Predictive Analysis(#stock)
+##### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+##### Stock Market Predictive Analysis
 
 ## Academic
 ### Project: Reddit Dashboard (Exploratory Text Analytics)
