@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### [Project: Real Estate Auto-Valuation Model (Estimating NOI)](#Project: Real Estate Auto-Valuation Model (Estimating NOI))
+#### ![Project: Real Estate Auto-Valuation Model (Estimating NOI)](#Project: Real Estate Auto-Valuation Model (Estimating NOI))
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
