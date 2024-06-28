@@ -6,6 +6,7 @@ Last Updated: 27 JUN 2024.
 ## Table of Contents
 ## Academic
 #### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
+#### Project: Motorcycle Sales
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ## Personal 
