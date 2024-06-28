@@ -6,6 +6,7 @@ Last Updated: 27 JUN 2024.
 ## Table of Contents
 ## Academic
 #### Project: Reddit Power BI Dashboard (Exploratory Text Analytics)
+#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
 #### Project: Motorcycle Sales
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
@@ -19,6 +20,16 @@ Last Updated: 27 JUN 2024.
 Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer 
 
 Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
+
+#### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
+Repository:
+
+Description:
+
+#### Project: Motorcycle Sales
+Repository:
+
+Description:
 
 ## Professional
 ### Project: Real Estate Auto-Valuation Model (Estimating NOI)
