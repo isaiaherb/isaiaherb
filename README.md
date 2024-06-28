@@ -6,7 +6,6 @@ Last Updated: 27 JUN 2024.
 Languages: Python, SQL, and R
 
 ## Professional Projects
-
 ### Auto Valuation Model (Retail) 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
