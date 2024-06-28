@@ -5,12 +5,12 @@ Languages: Python and SQL
 
 ## Table of Contents
 ### Academic
-##### Reddit Analytics Dashboard
+##### Project: Reddit Dashboard
 ### Professional
-##### Auto-Valuation Model (Estimating NOI)
+##### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ### Personal 
-##### CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
-##### Stock Market Predictive Analysis
+##### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+##### Project: Stock Market Predictive Analysis
 
 ## Academic
 ### Project: Reddit Dashboard (Exploratory Text Analytics)
@@ -19,5 +19,19 @@ Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer <br>
 Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
 
 ## Professional
-###
+### Project: Real Estate Auto-Valuation Model (Estimating NOI)
+Repository: 
+
+Description:
+
+## Personal
+### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+Repository: 
+
+Description:
+
+### Project: Stock Market Predictive Analysis
+Repository:
+
+Description:
 
