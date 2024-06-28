@@ -60,7 +60,7 @@ Description: A Power BI dashboard to analyze various demographic and property st
 ![census-image-1](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183925.png?raw=true)
 ![census-image-2](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183559.png?raw=true)
 ### Fantasy Hockey Lineup Optimization (PE Concrete Model)
-Repository: https://github.com/isaiaherb/fantasy-hockey-lineup
+Repository: https://github.com/isaiaherb/fantasy-hockey-optimization
 
 Description: Optimizing fantasy hockey lineups using various statistical methods.
 ### Motorcycle Sales
