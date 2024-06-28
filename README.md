@@ -21,64 +21,63 @@ Languages: Python, SQL, and R
 #### [Fantasy Hockey Lineup](#fantasy-hockey-lineup)
 #### [Motorcycle Sales](#motorcycle-sales)
 <!-- toc -->
-
-
-
 ## Professional
-## Real Estate Auto Valuation 
+
+### Real Estate Auto Valuation 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
 
 ## Personal
+
 ### CNN Fed Transcript Comparison
 Repository: https://github.com/isaiaherb/2008-document-comparison
 
 Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
 
 ### NBA Season Predictions 
-Repository:
+Repository: https://github.com/isaiaherb/nba-season-predictions
 
-Description:
+Description: predict the outcomes of the NBA season based on various statistical models.
 
 ### US Debt Forecasting
-Repository:
+Repository: https://github.com/isaiaherb/us-debt-forecasting
 
-Description:
-
+Description: a model that forecasts the US debt based on historical data and current economic indicators.
 
 ### Stock Market Predictions
-Repository: https://github.com/isaiaherb/Stock-Market-Predictive-Modeling
+Repository: https://github.com/isaiaherb/stock-market-predictions
 
-Description:
+Description: a machine learning model to predict stock market trends.
 
 ### Mental Health Disorders
-Repository: https://github.com/isaiaherb/World-Mental-Health-Analysis
+Repository: https://github.com/isaiaherb/mental-health-disorders
 
-Description
+Description: analysis of the prevalence and treatment outcomes of various mental health disorders.
 
 ## Academic
-### Reddit Analytics in Power BI
-Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer 
 
-Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
+### Reddit Analytics
+Repository: https://github.com/isaiaherb/reddit-analytics
+
+Description: analysis of Reddit data to extract insights on various topics.
 
 ### Census Data Analysis
-Repository: https://github.com/isaiaherb/denver-census
+Repository: https://github.com/isaiaherb/census-data-analysis
 
-Description: census data analysis for the City of Denver, our senior capstone client at DU, who was aiming to introduce a new development to the city's central business district and wanted insights into the area; includes a Power BI dashboard with breakdowns of demographics, income, education, and more for the Central Business District and city/county of Denver
+Description: analysis of US census data to uncover demographic trends.
 
-### Denver Nuggets Shooting Performance 2021-22
-Repository: https://github.com/isaiaherb/basketball-analytics
+### Denver Nuggets Shot Analysis
+Repository: https://github.com/isaiaherb/denver-nuggets-shot-analysis
 
-Description:
+Description: statistical analysis of shot data from Denver Nuggets games.
 
 ### Fantasy Hockey Lineup
-Repository:
+Repository: https://github.com/isaiaherb/fantasy-hockey-lineup
 
-Description:
+Description: optimizing fantasy hockey lineups using various statistical methods.
 
 ### Motorcycle Sales
-Repository:
+Repository: https://github.com/isaiaherb/motorcycle-sales
 
-Description:
+Description: analysis of motorcycle sales data to predict future sales trends.
