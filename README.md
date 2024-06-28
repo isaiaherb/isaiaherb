@@ -5,14 +5,14 @@ Last Updated: 27 JUN 2024.
 
 Languages: Python, SQL, and R
 
-## Professional
+## Professional Projects
 
 ### Real Estate Auto Valuation 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
 
-## Personal
+## Personal Projects
 
 ### CNN Fed Transcript Comparison
 Repository: https://github.com/isaiaherb/2008-document-comparison
@@ -39,7 +39,7 @@ Repository: https://github.com/isaiaherb/mental-health-disorders
 
 Description: analysis of the prevalence and treatment outcomes of various mental health disorders.
 
-## Academic
+## Academic Projects
 
 ### Reddit Analytics
 Repository: https://github.com/isaiaherb/reddit-analytics
