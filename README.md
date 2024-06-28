@@ -10,8 +10,8 @@ Languages: Python, SQL, and R
 #### Project: [Real-Estate-Auto-Valuation](#real-estate-auto-valuation)
 ## Personal 
 #### Project: [CNN-Fed-Transcript-Comparison-NLP](#cnn-fed-transcript-comparison-nlp)
-#### Project [NBA-Season-Rankings-2023-24)[#nba-season-rankings-2023-24]
-#### Federal [Federal-Spending-and-Debt-Forecasting](#Federal-Spending-and-Debt-Forecasting)
+#### Project [NBA-Season-Predictions-2023-24)[#nba-season-predictions-2023-24]
+#### Federal [US-Debt-Forecasting](#US-Debt-Forecasting)
 #### Stock Market Predictive Modeling
 #### World Mental Health EDA 
 ## Academic
@@ -28,17 +28,17 @@ Repository: https://github.com/isaiaherb/real-estate-avm
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
 
 ## Personal
-### CNN-Fed-Transcript-Comparison-NLP
+### CNN Fed Transcript Comparison-NLP
 Repository: https://github.com/isaiaherb/2008-document-comparison
 
 Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
 
-### NBA-Season-Rankings-2023-24
+### NBA Season Predictions 2023-24
 Repository:
 
 Description:
 
-### Federal-Spending-and-Debt-Forecasting
+### US Debt Forecasting
 Repository:
 
 Description:
