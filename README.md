@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### [Project: Real Estate Auto-Valuation Model](#real-estate) 
+#### [Project](#project)
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
@@ -20,18 +20,18 @@ Languages: Python, SQL, and R
 #### Project: Denver Nuggets Shooting Analysis (R)
 #### Project: Fantasy Hockey Lineup Optimization (PE Concrete Model)
 #### Project: Motorcycle Sales
-<!-- toc -->
+
 ## Professional
-### Project: Real Estate Auto-Valuation Model 
+### Project 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
-Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, linear regression model with 0.95 r-squared that estimates noi
+Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
 
 ## Personal
 ### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
 Repository: https://github.com/isaiaherb/2008-document-comparison
 
-Description: compares two documents from the 2008 financial crisis, specifically during september when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th, and a CNN Money article from the same day
+Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
 
 ### NBA Season Rankings (R)
 Repository:
