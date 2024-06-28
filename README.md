@@ -15,6 +15,7 @@ Languages: Python and SQL
 ## Academic
 ### Project: Reddit Dashboard (Exploratory Text Analytics)
 Repository: https://github.com/isaiaherb/Reddit-Sentiment-Analyzer <br>
+
 Description: senior capstone project, financial industry client, wanted a picture into the Reddit community, provided a way to explore Reddit comments individually by timeframe, orchestrated a highly-scalable Airflow framework along with a SQL Server database for periodic loads
 
 ## Professional
