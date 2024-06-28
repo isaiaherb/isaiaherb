@@ -14,17 +14,17 @@ Description: allows user to visualize the effects of inflation and price on noi 
 
 ## Personal Projects
 
-### CNN Fed Transcript Comparison
+### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
 Repository: https://github.com/isaiaherb/2008-document-comparison
 
 Description: compares two documents from the 2008 financial crisis, specifically during September when Congress rejected a bailout plan for the big banks, the idea is to see the emotional and contextual difference between two different sources of information, the Fed and CNN, the documents include a Fed conference call transcript from September 29th and a CNN Money article from the same day
 
-### NBA Season Predictions 
+### NBA Season Predictions (2023-2024)
 Repository: https://github.com/isaiaherb/nba-season-predictions
 
 Description: predict the outcomes of the NBA season based on various statistical models.
 
-### US Debt Forecasting
+### US Debt Forecasting 
 Repository: https://github.com/isaiaherb/us-debt-forecasting
 
 Description: a model that forecasts the US debt based on historical data and current economic indicators.
@@ -51,12 +51,12 @@ Repository: https://github.com/isaiaherb/census-data-analysis
 
 Description: analysis of US census data to uncover demographic trends.
 
-### Denver Nuggets Shot Analysis
+### Denver Nuggets Shot Analysis (2021)
 Repository: https://github.com/isaiaherb/denver-nuggets-shot-analysis
 
 Description: statistical analysis of shot data from Denver Nuggets games.
 
-### Fantasy Hockey Lineup
+### Fantasy Hockey Lineup (PE Concrete Model)
 Repository: https://github.com/isaiaherb/fantasy-hockey-lineup
 
 Description: optimizing fantasy hockey lineups using various statistical methods.
