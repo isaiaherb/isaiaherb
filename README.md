@@ -4,13 +4,13 @@ Last Updated: 27 JUN 2024.
 Languages: Python and SQL
 
 ## Table of Contents
-### Academic
-##### Project: Reddit Dashboard
-### Professional
-##### Project: Real Estate Auto-Valuation Model (Estimating NOI)
-### Personal 
-##### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
-##### Project: Stock Market Predictive Analysis
+## Academic
+#### Project: Reddit Dashboard
+## Professional
+#### Project: Real Estate Auto-Valuation Model (Estimating NOI)
+## Personal 
+#### Project: CNN Article and Fed Transcript Comparison (Natural Language Processing and AI)
+#### Project: Stock Market Predictive Analysis
 
 ## Academic
 ### Project: Reddit Dashboard (Exploratory Text Analytics)
