@@ -5,7 +5,7 @@ Last Updated: 27 JUN 2024.
 
 ## Table of Contents
 ## Academic
-#### Project: Reddit Dashboard
+#### [Project: Reddit Dashboard](#reddit)
 ## Professional
 #### Project: Real Estate Auto-Valuation Model (Estimating NOI)
 ## Personal 
