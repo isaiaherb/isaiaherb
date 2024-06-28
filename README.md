@@ -7,7 +7,7 @@ Languages: Python, SQL, and R
 
 ## Table of Contents
 ## Professional
-#### [Project](#project)
+#### [Project: Python](#project)
 ## Personal 
 #### 2008 CNN Article and Fed Transcript Comparison (Natural Language Processing and Gen AI)
 #### NBA Season Rankings (R)
@@ -22,7 +22,7 @@ Languages: Python, SQL, and R
 #### Project: Motorcycle Sales
 
 ## Professional
-### Project 
+### Project: Python 
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: allows user to visualize the effects of inflation and price on noi of retail properties, grocery stores in particular, a linear regression model with 0.95 r-squared that estimates noi
