@@ -13,6 +13,14 @@ Description: A machine learning auto-valuation model designed to predict the NOI
 
 ![avm-image](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114805.png?raw=true)
 ![avm-image-2](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
+### Reddit Text Analytics in Power BI
+Repository: https://github.com/isaiaherb/reddit-analytics
+
+Description: analysis of Reddit data to extract insights on various topics.
+
+![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
+![reddit-image-2](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20105555.png?raw=true)
+![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
 ## Personal Projects
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
 Repository:https://github.com/isaiaherb/document-comparison
@@ -45,14 +53,12 @@ Repository: https://github.com/isaiaherb/mental-health-disorders
 
 Description: The World Mental Health Analysis Project aims to visualize information about mental disorders and various treatments around the world. This project utilizes data from multiple Excel files obtained from Kaggle.
 ## Academic Projects
-### Reddit Analytics in Power BI
-Repository: https://github.com/isaiaherb/reddit-analytics
+### City of Denver Demographic and Property Data Visualization
+Repository: https://github.com/isaiaherb/denver-census
 
-Description: analysis of Reddit data to extract insights on various topics.
-
-![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
-![reddit-image-2](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20105555.png?raw=true)
-![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
+Description: A Power BI dashboard to analyze various demographic and property statistics for the client, the City of Denver. 
+![census-image-1](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183925.png?raw=true)
+![census-image-2](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183559.png?raw=true)
 ### Fantasy Hockey Lineup Optimization (PE Concrete Model)
 Repository: https://github.com/isaiaherb/fantasy-hockey-lineup
 
