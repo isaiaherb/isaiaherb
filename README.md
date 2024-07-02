@@ -23,9 +23,16 @@ Description: analysis of Reddit data to extract insights on various topics.
 ![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
 ## Personal Projects
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
-Repository:https://github.com/isaiaherb/document-comparison
+Repository: https://github.com/isaiaherb/document-comparison
 
 Description: This Jupyter Notebook explores text analytics and document comparison for two separate documents from the time of the 2008 financial crisis. The main idea is to see the emotional and contextual difference between two different sources of information, a Fed conference call transcript and a CNN news article.
+
+### Environmental Sustainability Storytelling in Tableau
+Repository: https://github.com/isaiaherb/global-sustainability-montioring
+
+Description: Kaggle sustainability dataset ranging from the 1960s to 2020, extracted as CSV files then cleaned in Python. Includes SQL scripts for database and table creation in Postgres, and further transformations such as changing datatypes and removing special characters. Final visualizations in Tableau.
+![Graph1]
+![Graph2]
 
 ### NBA Season Predictions (2023-2024)
 Repository: https://github.com/isaiaherb/nba-predictions-2023-24
