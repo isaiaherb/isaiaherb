@@ -6,7 +6,7 @@ Last Updated: 1 JULY 2024.
 Languages: Python, SQL, and R
 
 ## Professional Projects
-### Real Estate Auto Valuation WITH Scikit-Learn and Streamlit
+### Real Estate Auto Valuation With Scikit-Learn and Streamlit
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: A machine learning auto-valuation model designed to predict the NOI and price for a given set of environmental and property conditions. It can be particularly useful in simulating economic activity and visualizing the effects on a property. It's also helpful when exploring new properties and deciding if they're a good buy or sell. In short, it allows users to get a quick estimate of a commercial property's NOI and/or set the price when selling. The Streamlit UI visualizes predicted NOI, predicted price, and adjusted cap rates within the distribution of the training dataset. Both the NOI and price estimators have been tailored toward the retail sector, specifically grocery stores and supermarkets.
