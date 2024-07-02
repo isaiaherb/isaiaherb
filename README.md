@@ -32,7 +32,7 @@ Repository: [https://github.com/isaiaherb/global-sustainability-montioring]
 
 Description: Kaggle sustainability dataset ranging from the 1960s to 2020, extracted as CSV files then cleaned in Python. Includes initial EDA and SQL scripts for database and table creation in Postgres, and further transformations such as changing datatypes and removing special characters. Final visualizations in Tableau.
 ![Graph1](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-06-28%20121403.png?raw=true)
-![Graph2](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20230629.png?raw=true)
+![Graph2]((https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20232905.png?raw=true))
 ![Graph3](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20230651.png?raw=true)
 
 ### NBA Season Predictions (2023-2024)
