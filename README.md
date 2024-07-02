@@ -1,7 +1,7 @@
 ## Description
 This portfolio highlights key data science and analytics projects from my professional career, personal interests, and academic pursuits.
 
-Last Updated: 28 JUN 2024.
+Last Updated: 1 JULY 2024.
 
 Languages: Python, SQL, and R
 
@@ -43,11 +43,6 @@ Description: Predicting the outcome of the 2023-24 NBA season in R.
 ![nba-image](https://github.com/isaiaherb/nba-predictions-2023-24/blob/main/images/Screenshot%202024-06-28%20111851.png?raw=true)
 ### SQL Portfolio 
 Repository: https://github.com/isaiaherb/sql-portfolio
-### International Environmental Assessment 
-Repository: https://github.com/isaiaherb/environmental-analysis
-
-Description: Assessing CO2 emissions, access to clean water, and forest areas across all countries worldwide. Targeting those with the highest emissions, lowest water levels, and greatest forest areas to date.
-![environmental-image](https://github.com/isaiaherb/environmental-analysis/blob/main/images/Screenshot%202024-06-28%20121403.png?raw=true)
 ### Forecasting US National Debt 
 Repository: https://github.com/isaiaherb/economic-analysis
 
