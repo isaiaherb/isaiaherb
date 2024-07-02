@@ -27,14 +27,6 @@ Repository: https://github.com/isaiaherb/document-comparison
 
 Description: This Jupyter Notebook explores text analytics and document comparison for two separate documents from the time of the 2008 financial crisis. The main idea is to see the emotional and contextual difference between two different sources of information, a Fed conference call transcript and a CNN news article.
 
-### Environmental Sustainability Storytelling in Tableau
-Repository: [https://github.com/isaiaherb/global-sustainability-montioring]
-
-Description: Kaggle sustainability dataset ranging from the 1960s to 2020, extracted as CSV files then cleaned in Python. Includes initial EDA and SQL scripts for database and table creation in Postgres, and further transformations such as changing datatypes and removing special characters. Final visualizations in Tableau.
-![Graph1](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-06-28%20121403.png?raw=true)
-![Graph2](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20232905.png?raw=true)
-![Graph3](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20230651.png?raw=true)
-
 ### NBA Season Predictions (2023-2024)
 Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
@@ -47,6 +39,14 @@ Repository: https://github.com/isaiaherb/sql-portfolio
 Repository: https://github.com/isaiaherb/economic-analysis
 
 Description: A model that forecasts the US debt based on historical data and current economic indicators.
+### Environmental Sustainability Storytelling in Tableau
+Repository: [https://github.com/isaiaherb/global-sustainability-montioring]
+
+Description: Kaggle sustainability dataset ranging from the 1960s to 2020, extracted as CSV files then cleaned in Python. Includes initial EDA and SQL scripts for database and table creation in PostgreSQL, and further transformations such as changing datatypes and removing special characters. Final visualizations in Tableau.
+![Graph1](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-06-28%20121403.png?raw=true)
+![Graph2](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20232905.png?raw=true)
+![Graph3](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20230651.png?raw=true)
+
 ### Stock Market Predictions
 Repository: https://github.com/isaiaherb/stock-market-predictions
 
