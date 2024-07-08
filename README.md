@@ -7,11 +7,10 @@ Languages: Python, SQL, and R
 
 ## Professional Projects
 ### Real Estate Auto Valuation
-Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: An auto-valuation model that uses linear regression to predict commercial property values. 
 
-![avm-image-1](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
+Repository: https://github.com/isaiaherb/real-estate-avm
 
 ## Personal Projects
 ### Police Violence and Racial Equity (Tableau)
