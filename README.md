@@ -3,7 +3,7 @@ This portfolio highlights several academic, personal, and professional projects 
 
 Last Updated: 8 JULY 2024.
 
-Languages: Python, SQL, and R
+Languages: Python and SQL
 
 ## Professional Projects
 ### Real Estate Auto Valuation
@@ -14,20 +14,13 @@ Repository: https://github.com/isaiaherb/real-estate-avm
 
 ## Personal Projects
 ### Police Violence and Racial Equity (Tableau)
-Repository:
-
 Description: A robust analysis of police shootings, racial demographics, and crime data. 
-### NBA Season Prediction (R, Machine Learning, Sports Analytics)
-Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
-Description: Predicting the outcome of the 2023-24 NBA season in R.
-
-![nba-image](https://github.com/isaiaherb/nba-predictions-2023-24/blob/main/images/Screenshot%202024-06-28%20111851.png?raw=true)
+Repository:
 ### Stock Market Prediction (Python, Scikit-Learn, Finance)
-Repository: https://github.com/isaiaherb/stock-market-predictions
-
 Description: Five ML models to predict stock prices using historical data from Yahoo Finance.
 
+Repository: https://github.com/isaiaherb/stock-market-predictions
 ## Academic Projects
 ### Reddit Text Analytics (Power BI)
 Repository: https://github.com/isaiaherb/reddit-analytics
