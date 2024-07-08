@@ -11,8 +11,7 @@ Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: An auto-valuation model that uses linear regression to predict commercial property values. 
 
-![avm-image](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114805.png?raw=true)
-![avm-image-2](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
+![avm-image-1](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
 
 ## Personal Projects
 ### Police Violence and Racial Equity (Tableau)
