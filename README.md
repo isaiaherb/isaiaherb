@@ -6,7 +6,7 @@ Last Updated: 8 JULY 2024.
 Languages: Python, SQL, and R
 
 ## Professional Projects
-### Real Estate Auto Valuation Model
+### Real Estate Auto Valuation
 Repository: https://github.com/isaiaherb/real-estate-avm
 
 Description: An auto-valuation model that uses linear regression to predict commercial property values. 
@@ -15,10 +15,10 @@ Description: An auto-valuation model that uses linear regression to predict comm
 ![avm-image-2](https://github.com/isaiaherb/real-estate-avm/blob/main/images/Screenshot%202024-06-28%20114837.png?raw=true)
 
 ## Personal Projects
-### Police Violence and Racial Equity 
+### Police Violence and Racial Equity (Tableau)
 Repository:
 
-Description:
+Description: A robust analysis of police shootings, racial demographics, and crime data. 
 ### NBA Season Prediction (R, Machine Learning, Sports Analytics)
 Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
