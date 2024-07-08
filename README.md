@@ -1,4 +1,4 @@
-## Isaiah's Data Science Portfolio
+## Isaiah's Data Portfolio
 This portfolio highlights several academic, personal, and professional projects from my career as a business analyst and data science enthusiast. 
 
 Last Updated: 8 JULY 2024.
