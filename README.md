@@ -21,12 +21,7 @@ Description: analysis of Reddit data to extract insights on various topics.
 ![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
 ![reddit-image-2](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20105555.png?raw=true)
 ![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
-### City of Denver Demographic and Property Data Visualization
-Repository: https://github.com/isaiaherb/denver-census
 
-Description: A Power BI dashboard to analyze various demographic and property statistics for the client. 
-![census-image-1](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183925.png?raw=true)
-![census-image-2](https://github.com/isaiaherb/denver-census/blob/main/images/Screenshot%202023-04-26%20183559.png?raw=true)
 ## Personal Projects
 ### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
 Repository: https://github.com/isaiaherb/document-comparison
@@ -45,22 +40,12 @@ Repository: https://github.com/isaiaherb/sql-portfolio
 Repository: https://github.com/isaiaherb/economic-analysis
 
 Description: A model that forecasts the US national debt based on historical data and current economic indicators.
-### Environmental Sustainability Storytelling in Tableau
-Repository: [https://github.com/isaiaherb/global-sustainability-montioring]
 
-Description: Kaggle sustainability dataset ranging from the 1960s to 2020, extracted as CSV files then cleaned in Python. Includes initial EDA and SQL scripts for database and table creation in PostgreSQL, and further transformations such as changing datatypes and removing special characters. Final visualizations in Tableau.
-![Graph1](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-06-28%20121403.png?raw=true)
-![Graph2](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20232905.png?raw=true)
-![Graph3](https://github.com/isaiaherb/global-sustainability-tableau/blob/main/images/Screenshot%202024-07-01%20230651.png?raw=true)
 
 ### Stock Market Predictions
 Repository: https://github.com/isaiaherb/stock-market-predictions
 
 Description: Five machine-learning models trained to predict stock prices based on historical data from Yahoo Finance.
-### Mental Health Disorders
-Repository: https://github.com/isaiaherb/mental-health-disorders
-
-Description: The World Mental Health Analysis Project aims to visualize information about mental disorders and various treatments around the world. This project utilizes data from multiple Excel files obtained from Kaggle.
 ## Academic Projects
 ### Fantasy Hockey Lineup Optimization (PE Concrete Model)
 Repository: https://github.com/isaiaherb/fantasy-hockey-optimization
@@ -69,4 +54,4 @@ Description: Optimizing fantasy hockey lineups using various statistical methods
 ### Motorcycle Sales
 Repository: https://github.com/isaiaherb/motorcycle-sales
 
-Description: Detailed analysis of motorcycle sales dataset from Kaggle. Includes business questions and analytical findings.
+Description: Asking and answering key business questions with motorcycle sales data. 
