@@ -1,7 +1,7 @@
 ## Description
 This portfolio highlights key data science and analytics projects from my professional career, personal interests, and academic pursuits.
 
-Last Updated: 1 JULY 2024.
+Last Updated: 8 JULY 2024.
 
 Languages: Python, SQL, and R
 
@@ -23,35 +23,13 @@ Description: analysis of Reddit data to extract insights on various topics.
 ![reddit-image-3](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
 
 ## Personal Projects
-### Fed Conference Call vs. CNN News Article (Exploratory Text Analysis)
-Repository: https://github.com/isaiaherb/document-comparison
-
-Description: This Jupyter Notebook explores text analytics and document comparison for two separate documents from the time of the 2008 financial crisis. The main idea is to see the emotional and contextual difference between two different sources of information, a Fed conference call transcript and a CNN news article.
-
-### NBA Season Predictions (2023-2024)
+### NBA Season Prediction (Machine Learning)
 Repository: https://github.com/isaiaherb/nba-predictions-2023-24
 
 Description: Predicting the outcome of the 2023-24 NBA season in R.
 
 ![nba-image](https://github.com/isaiaherb/nba-predictions-2023-24/blob/main/images/Screenshot%202024-06-28%20111851.png?raw=true)
-### SQL Portfolio 
-Repository: https://github.com/isaiaherb/sql-portfolio
-### Forecasting US National Debt 
-Repository: https://github.com/isaiaherb/economic-analysis
-
-Description: A model that forecasts the US national debt based on historical data and current economic indicators.
-
-
-### Stock Market Predictions
+### Stock Market Prediction (Machine Learning)
 Repository: https://github.com/isaiaherb/stock-market-predictions
 
 Description: Five machine-learning models trained to predict stock prices based on historical data from Yahoo Finance.
-## Academic Projects
-### Fantasy Hockey Lineup Optimization (PE Concrete Model)
-Repository: https://github.com/isaiaherb/fantasy-hockey-optimization
-
-Description: Optimizing fantasy hockey lineups using various statistical methods.
-### Motorcycle Sales
-Repository: https://github.com/isaiaherb/motorcycle-sales
-
-Description: Asking and answering key business questions with motorcycle sales data. 
