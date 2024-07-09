@@ -13,9 +13,6 @@ Repository: https://github.com/isaiaherb/real-estate-avm
 Repository: https://github.com/isaiaherb/reddit-analytics
 
 Presentation: 
-
-![reddit-image-1](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png?raw=true)
-
 ## Personal Projects
 ### Police Violence and Racial Equity (Tableau)
 Description: A robust analysis of police shootings, racial demographics, and crime data. 
