@@ -8,18 +8,11 @@ Languages: Python and SQL
 ## Professional Projects
 ### Real Estate Auto Valuation
 Repository: https://github.com/isaiaherb/real-estate-avm
-
 ### Power BI Social Media Dashboard
 Repository: https://github.com/isaiaherb/reddit-analytics
-
-Presentation: 
 ## Personal Projects
 ### Police Violence and Racial Equity (Tableau)
-Description: A robust analysis of police shootings, racial demographics, and crime data. 
-
-Repository:
 ### Stock Market Prediction (Python, Scikit-Learn, Finance)
-
 Repository: https://github.com/isaiaherb/stock-market-predictions
 ## Academic Projects
 
