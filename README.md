@@ -1,5 +1,5 @@
 ## Isaiah's Data Portfolio
-This portfolio highlights my experience building ETL pipelines, modeling data, and producing meaningful insight for hypothetical and real-world clients.
+This portfolio highlights my experience building ETL pipelines, modeling data, and producing meaningful insight for hypothetical and real-world clients. 
 
 Last Updated: 8 JULY 2024.
 
