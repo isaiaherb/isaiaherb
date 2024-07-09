@@ -1,5 +1,5 @@
 ## Isaiah's Data Portfolio
-This portfolio highlights several academic, personal, and professional projects from my career as a business analyst and data science enthusiast. 
+This portfolio highlights my experience building ETL pipelines, modeling data, and producing meaningful insight for hypothetical and real-world clients.
 
 Last Updated: 8 JULY 2024.
 
