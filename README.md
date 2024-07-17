@@ -8,9 +8,9 @@ Languages: Python and SQL
 ## Professional Projects
 ### Charles Schwab Reddit Text Analytics and NLP
 Repository: https://github.com/isaiaherb/reddit-analytics
+
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-14%20223630.png?raw=true)
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20170949.png?raw=true)
-![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20104407.png)
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20111833.png?raw=true)
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20112923.png?raw=true)
 
