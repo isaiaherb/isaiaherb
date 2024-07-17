@@ -15,9 +15,6 @@ Repository: https://github.com/isaiaherb/police-violence-in-the-us
 ### Fantasy Hockey Optimal Lineup using PE Concrete Model (INFO 3440: Optimization Modeling)
 Repository: https://github.com/isaiaherb/fantasy-hockey-optimization
 ### Airbnb Review Analysis and Sentiment-Adjusted Price Projections (INFO 3400: Complex Data Analytics)
-Repository: 
-### FishNFur Services Enterprise Data Mart and BI Analysis (INFO 3300: Data Warehousing and Business Intelligence)
-Repository: 
-### Patterns and Trends in Real Estate Sales Comps (INFO 3200: Data Mining)
+Repository: https://github.com/isaiaherb/airbnb-text-analytics
 
 
