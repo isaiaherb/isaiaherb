@@ -10,7 +10,6 @@ Languages: Python and SQL
 Repository: https://github.com/isaiaherb/reddit-analytics
 
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-14%20223630.png?raw=true)
-![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-05%20112923.png?raw=true)
 
 ## Academic Projects
 ### Fantasy Hockey Optimal Lineup using PE Concrete Model (INFO 3440: Optimization Modeling)
