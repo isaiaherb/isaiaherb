@@ -9,7 +9,7 @@ Languages: Python and SQL
 ### Charles Schwab Reddit Text Analytics
 Repository: https://github.com/isaiaherb/reddit-analytics
 ## Personal Projects
-### Police Violence and Racial Equity Data Storytelling
+### Police Violence and Racial Equity 
 Repository: https://github.com/isaiaherb/police-violence-in-the-us
 ## Academic Projects
 ### Fantasy Hockey Optimal Lineup using PE Concrete Model (INFO 3440: Optimization Modeling)
