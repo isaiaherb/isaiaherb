@@ -1,7 +1,7 @@
 ## Isaiah's Data Portfolio
 This portfolio highlights my data analytics projects from my professional, academic, and personal pursuits.
 
-Last Updated: 17 JULY 2024.
+Last Updated: 1 AUGUST 2024.
 
 Languages: Python and SQL
 
