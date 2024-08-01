@@ -1,5 +1,5 @@
 ## Isaiah's Data Portfolio
-This portfolio highlights my professional, personal, and academic projects in data science, business intelligence, and analytics.
+This portfolio highlights my data analytics projects from my professional, academic, and personal pursuits.
 
 Last Updated: 17 JULY 2024.
 
