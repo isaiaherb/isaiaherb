@@ -7,10 +7,15 @@ Languages: Python and SQL
 
 ## Professional Projects
 ### Charles Schwab Reddit Text Analytics 
-Objective: Investigate financial communities on Reddit, how they think about Charles Schwab, and how market movements such as the 2021 Gamma Squeeze or the 2008 Recession resonate with Reddit users. <br>
-Repository: https://github.com/isaiaherb/reddit-analytics <br>
+#### Objective 
+Investigate financial communities on Reddit, how they think about Charles Schwab, and how market movements such as the 2021 Gamma Squeeze or the 2008 Recession resonate with Reddit users. <br>
 
+#### Technology Stack
 ![image](https://github.com/isaiaherb/reddit-analytics/blob/main/images/Screenshot%202024-06-14%20223630.png?raw=true)
+
+#### Dashboard
+#### Repository: https://github.com/isaiaherb/reddit-analytics <br>
+
 
 ## Academic Projects
 ### Fantasy Hockey Optimal Lineup using PE Concrete Model (INFO 3440: Optimization Modeling)
